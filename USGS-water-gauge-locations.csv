@@ -1,0 +1,12 @@
+latitude,longitude,location,site,minflow,maxflow,other
+"42°40’03""N","71°34’32""W",Nashua River at East Pepperrell Dam,01096500,100,2000,below a controlled release dam
+"45°34'06""N","67°25'42""W",St. Croix at Vanceboro,01018500,700,6000,
+"42°38’03""N","71°39’30""W",Squannacook River at West Groton  ,01096000,100,600,
+"45°43'49""N","68°35'22""W",East Branch Penobscot at Grindstone,01029500,1300,10000,
+"47°06'47""N","69°05'17""W",St. John River at Dickey,01010500,3000,5000,
+"47°04'11""N","69°04'46""W",Allagash River at Allagash ,01011000,500,2000,
+"44°46'57""N","71°07'43""W",Androscoggin River at Errol,01053500,750,3000,
+"43°58'34""N","71°40'48""W",Pemigewasset River at Woodstock ,01075000,250,10000,
+"42°37’33""N","72°51’15""W",Deerfield River at Charlemont,01168500,700,2000,below a controlled release dam
+"41°57'46""N","73°01'05""W",West Branch Farmington River at Riverton,01186000,70,1000,below a controlled release dam
+"45°02'25""N","71°26'40""W",Conneticut River at Pittsburg,01129200,500,1000,
